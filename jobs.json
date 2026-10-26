@@ -1,0 +1,19 @@
+[
+  {
+    "id": "example-company-product-designer-remote",
+    "title": "Product Designer (EXAMPLE)",
+    "company": "Example Company",
+    "location": "Remote",
+    "contractType": "Full-time",
+    "salary": null,
+    "postedDate": "2026-10-20",
+    "closingDate": null,
+    "url": "https://example.com/careers/product-designer",
+    "cv": "Base CV",
+    "note": "EXAMPLE job to show how a card looks. Delete it once real jobs are added.",
+    "addedDate": "2026-10-26",
+    "contact": null,
+    "tailoredCv": "cvs/tailored/example-company-product-designer-remote.pdf",
+    "status": "new"
+  }
+]

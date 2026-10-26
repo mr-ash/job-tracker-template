@@ -1,0 +1,183 @@
+%-------------------------
+% PLACEHOLDER BASE CV. Replace every line of fake content below with your own real details.
+% Keep the commands (\resumeSubheading, \resumeItem, \textbf{Label}{: ...}) so tailor_tex.py can read it.
+%
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape Your Name} \\ \vspace{1pt}
+    \small +00 000 000 0000 $|$ \href{mailto:you@example.com}{you@example.com} $|$
+    \href{https://www.linkedin.com/in/your-profile/}{LinkedIn} $|$
+    \href{https://example.com}{Portfolio}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Example University}{Example City}
+      {MSc - Your Degree Subject}
+      {Sep. 2024 -- Sep. 2025}
+    \resumeSubheading
+      {Example College}{Example Town}
+      {BSc - Your Undergraduate Subject}
+      {Sep. 2020 -- June 2024}
+  \resumeSubHeadingListEnd
+
+\vspace{0.1cm}
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+ \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Your Job Title}{Jan 2025 -- Present}
+      {Example Company}{Remote}
+      \resumeItemListStart
+        \resumeItem{Designed user flows and screens for the example product, working closely with the engineering team.}
+        \resumeItem{Built and maintained a small design system of reusable components and styles.}
+        \resumeItem{Ran usability tests with customers and turned the findings into design changes.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Your Previous Job Title}{June 2024 -- Dec 2024}
+      {Another Example Company}{Example City}
+      \resumeItemListStart
+        \resumeItem{Created prototypes in Figma to test new ideas before they were built.}
+        \resumeItem{Worked with the marketing team on visual assets for product launches.}
+      \resumeItemListEnd
+
+ \resumeSubHeadingListEnd
+\vspace{0.1cm}
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+\resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Example Project} $|$ \emph{Web App} $|$ \href{https://example.com}{\underline{Website}}}{2025 -- Present}
+          \resumeItemListStart
+            \resumeItem{Designed and built a small web app on my own, from first sketches to a live release.}
+            \resumeItem{Talked to early users and used their feedback to decide what to build next.}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+\vspace{0.1cm}
+
+%-----------SKILLS-----------
+\section{Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Tools}{: Figma, Framer, Adobe Photoshop, GitHub} \\
+     \textbf{Design}{: Wireframing, Prototyping, Interaction Design, UI Design, Design Systems, User Research} \\
+     \textbf{Programming}{: HTML, CSS, JavaScript} \\
+    }}
+ \end{itemize}
+
+%-------------------------------------------
+\end{document}

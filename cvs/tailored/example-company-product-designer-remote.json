@@ -1,0 +1,20 @@
+{
+  "jobId": "example-company-product-designer-remote",
+  "title": "Product Designer",
+  "company": "Example Company",
+  "baseCv": "base-cv",
+  "source": "posting",
+  "sourceUrl": "https://example.com/careers/product-designer",
+  "keywords": ["design systems", "usability testing", "prototyping"],
+  "edits": [
+    {"from": "Built and maintained a small design system of reusable components and styles.",
+     "to": "Built and maintained a design system of reusable components and styles, keeping screens consistent across the product."}
+  ],
+  "reorder": [[
+    "Built and maintained a small design system of reusable components and styles.",
+    "Designed user flows and screens for the example product, working closely with the engineering team.",
+    "Ran usability tests with customers and turned the findings into design changes."
+  ]],
+  "skills": [{"label": "Design", "items": ["Design Systems", "Prototyping", "User Research", "UI Design", "Interaction Design", "Wireframing"]}],
+  "honesty": "EXAMPLE spec. Reordered and reworded base CV content only; nothing new added."
+}

@@ -1,0 +1,20 @@
+# Cloudflare Pages headers (GitHub Pages ignores this file).
+# Always fetch fresh copies of the files that change, so new jobs show up straight away.
+/
+  Cache-Control: no-cache
+/index.html
+  Cache-Control: no-cache
+/jobs.json
+  Cache-Control: no-cache
+/config.js
+  Cache-Control: no-cache
+/sw.js
+  Cache-Control: no-cache
+/manifest.webmanifest
+  Cache-Control: no-cache
+/cvs/*
+  Cache-Control: no-cache
+
+# Ask search engines not to list any page of the site.
+/*
+  X-Robots-Tag: noindex
