@@ -4,25 +4,25 @@
 // ---------------------------------------------------------------------------
 window.JOB_TRACKER_CONFIG = {
   // Shown in the top bar and the browser tab.
-  title: "My Job Tracker",
+  title: "Ashwin's Job Tracker",
 
   // Used in the file names of downloaded CVs, e.g. "Your Name CV - Acme Designer.pdf".
-  yourName: "Your Name",
+  yourName: "Ashwin Girish",
 
   // Added to LinkedIn "Find people" / "Recruiters" searches, e.g. "United Kingdom", "Germany", "Canada".
-  country: "Your Country",
+  country: "Ireland",
 
   // Location filter chips. A job goes under the first chip whose "match" words appear in its
   // "location" text (not case-sensitive). Everything else goes under otherLocationLabel.
   locations: [
-    { label: "Your City", match: ["your city"] },
+    { label: "Dublin", match: ["dublin"] },
     { label: "Remote",    match: ["remote"] }
   ],
   otherLocationLabel: "Other",
 
   // One or two sentences about you, used in the "Copy referral message" text.
   // Only say things that are true and on your CV.
-  pitch: "I'm a [your role] with [one or two real highlights from your CV].",
+  pitch: "I'm a UX/UI designer with 2 years of industry experience designing responsive web and mobile products, including HRMS products and a Partner Portal built from scratch, and I'm completing an MSc in Design Innovation at Maynooth University.",
 
   // Your base CVs. "slug" must match a file in cvs/base/ (cvs/base/<slug>.tex and .pdf).
   // A job's "cv" field must be the "name" here; the page turns it into the slug.
