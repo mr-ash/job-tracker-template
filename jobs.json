@@ -32,5 +32,39 @@
     "contact": null,
     "tailoredCv": "cvs/tailored/koru-ux-design-ui-ux-designer-india-remote.pdf",
     "status": "new"
+  },
+  {
+    "id": "amazon-product-designer-aws-observability-dublin",
+    "title": "Product Designer, AWS Search, Security, Observability, Governance",
+    "company": "Amazon (AWS)",
+    "location": "Dublin, Ireland",
+    "contractType": "Full-time",
+    "salary": null,
+    "postedDate": "2026-10-28",
+    "closingDate": null,
+    "url": "https://www.amazon.jobs/en/jobs/10591520/product-designer-aws-search-security-observability-governance",
+    "cv": "Base CV",
+    "note": "Dublin product designer role pitched at growing designers (guidance from senior designers, no years stated): own features end to end, prototype, usability test, extend the design system with PM and engineering, matching his HRMS SaaS work. Domain is very technical (CloudWatch observability and an AI DevOps agent), and a basic qualification is prototyping in code (HTML/JS/CSS or Axure), which only his Callback web app covers, so treat it as a mild stretch. Work pattern and right-to-work terms not stated; ask about sponsorship given Stamp 1G is pending.",
+    "addedDate": "2026-11-02",
+    "contact": null,
+    "tailoredCv": "cvs/tailored/amazon-product-designer-aws-observability-dublin.pdf",
+    "status": "new"
+  },
+  {
+    "id": "spate-product-designer-remote-europe",
+    "title": "Product Designer (Intl. - Full-time)",
+    "company": "Spate",
+    "location": "Remote (UK, central Europe, Latin America)",
+    "contractType": "Full-time",
+    "salary": "€70k–€80k",
+    "postedDate": null,
+    "closingDate": null,
+    "url": "https://apply.workable.com/spate/j/A22DC2A204",
+    "cv": "Base CV",
+    "note": "Stretch: asks for 3+ years (though says mindset matters more than years) and this is their first dedicated designer, so lots of autonomy. Fit: B2B SaaS dashboards (his Partner Portal), design-system work in Figma, finding pain points through customer interviews. Fully remote but restricted to the UK, central Europe or Latin America and UTC−6 to UTC+1; Ireland fits the time-zone band but isn't named, so confirm they'll employ someone based in Ireland.",
+    "addedDate": "2026-11-02",
+    "contact": null,
+    "tailoredCv": "cvs/tailored/spate-product-designer-remote-europe.pdf",
+    "status": "new"
   }
 ]

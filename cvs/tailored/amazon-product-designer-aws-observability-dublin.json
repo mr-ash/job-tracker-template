@@ -1,0 +1,65 @@
+{
+  "jobId": "amazon-product-designer-aws-observability-dublin",
+  "title": "Product Designer, AWS Search, Security, Observability, Governance",
+  "company": "Amazon (AWS)",
+  "baseCv": "base-cv",
+  "source": "posting",
+  "sourceUrl": "https://www.amazon.jobs/en/jobs/10591520/product-designer-aws-search-security-observability-governance",
+  "keywords": [
+    "own features end to end",
+    "partner with PM and engineering",
+    "prototypes",
+    "usability testing",
+    "design system",
+    "information architecture",
+    "complex workflows"
+  ],
+  "edits": [
+    {
+      "from": "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "to": "Owned assigned features end to end, from early exploration and user flows to wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma."
+    },
+    {
+      "from": "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "to": "Worked closely with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences."
+    },
+    {
+      "from": "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "to": "Worked within the shared design system, reusing components and product patterns to keep the HRMS platform consistent while identifying opportunities to improve complex workflows and interaction patterns."
+    },
+    {
+      "from": "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+      "to": "Conducted interviews and usability testing with HR administrators, managers and employees, letting the findings drive UX improvements and interface decisions."
+    }
+  ],
+  "reorder": [
+    [
+      "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+      "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback."
+    ]
+  ],
+  "skills": [
+    {
+      "label": "Design",
+      "items": [
+        "Interaction Design",
+        "Information Architecture",
+        "Prototyping",
+        "UI Design",
+        "User Flows",
+        "Usability Testing",
+        "User Research",
+        "Wireframing",
+        "User Interviews",
+        "Responsive Design",
+        "User Journeys",
+        "User-Centered Design"
+      ]
+    }
+  ],
+  "honesty": "Reworded and reordered base CV content only (end-to-end feature ownership, developer collaboration, design-system work, usability testing). No new experience, tools, dates or metrics."
+}
