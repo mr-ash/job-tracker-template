@@ -1,0 +1,40 @@
+{
+  "jobId": "mindmanthan-ui-ux-designer-noida-hybrid",
+  "title": "UI/UX Designer",
+  "company": "MindManthan Software Solutions",
+  "baseCv": "base-cv",
+  "source": "posting",
+  "sourceUrl": "https://mindmanthansoftwaresolutions.com/careers",
+  "keywords": ["websites, apps and dashboards", "wireframes", "polished UI", "Figma", "prototyping", "design systems"],
+  "edits": [
+    {
+      "from": "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "to": "Owned the end-to-end UX process across assigned modules in Figma, taking work from user flows and wireframes to interactive prototypes and polished, development-ready high-fidelity interfaces."
+    },
+    {
+      "from": "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback.",
+      "to": "Designed a Partner Portal from the ground up for Sales and Customer personas, creating clean, usable dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback."
+    },
+    {
+      "from": "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "to": "Worked within the design system of reusable components and product patterns to keep the HRMS platform consistent, while identifying opportunities to improve workflows and interaction patterns."
+    }
+  ],
+  "reorder": [
+    [
+      "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback.",
+      "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions."
+    ]
+  ],
+  "skills": [
+    {
+      "label": "Design",
+      "items": ["UI Design", "Wireframing", "Prototyping", "Responsive Design", "Interaction Design", "User Flows", "Information Architecture", "User Research", "Usability Testing", "User Interviews", "User Journeys", "User-Centered Design"]
+    }
+  ],
+  "honesty": "Reworded and reordered base CV content only (Figma end-to-end UI work, Partner Portal dashboards, design-system components). No new experience, tools, dates or metrics."
+}

@@ -66,5 +66,22 @@
     "contact": null,
     "tailoredCv": "cvs/tailored/spate-product-designer-remote-europe.pdf",
     "status": "new"
+  },
+  {
+    "id": "mindmanthan-ui-ux-designer-noida-hybrid",
+    "title": "UI/UX Designer",
+    "company": "MindManthan Software Solutions",
+    "location": "Noida, India (Hybrid)",
+    "contractType": "Full-time",
+    "salary": null,
+    "postedDate": null,
+    "closingDate": null,
+    "url": "https://mindmanthansoftwaresolutions.com/careers",
+    "cv": "Base CV",
+    "note": "Core fit: asks 1–2 years for UI/UX on websites, apps and dashboards (Figma, wireframing, prototyping, design systems), matching his Mewurk HRMS and Partner Portal work. Hybrid in Noida, so it needs relocation within India. Small software agency, not a preferred industry. Posting is brief; apply via the form on the careers page.",
+    "addedDate": "2026-11-02",
+    "contact": null,
+    "tailoredCv": "cvs/tailored/mindmanthan-ui-ux-designer-noida-hybrid.pdf",
+    "status": "new"
   }
 ]
