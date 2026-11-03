@@ -29,6 +29,8 @@ Optional layout keys (all off unless present, so existing specs render as before
     "sectionOrder": ["Experience", "Projects", "Skills", "Education"],  # every \\section, once
     "headerLinks":  [{"label": "Motion design", "url": "https://..."}],  # appended to the contact line
     "removeSkillsLines": ["Platforms"],
+    "profile":      "<new plain-text profile summary>",  # replaces the text under \\section{Profile};
+                                                      # term-checked like edits
     "allowSkills":  ["Brand Identity"],               # skills you verified, beyond the base lines
     "allowTerms":   ["Webflow"],                      # per-spec version of --allow-new-terms
 
@@ -337,6 +339,21 @@ def tailor(spec_path, allow_new_terms=False):
         e = braced(tex, m.end() - 2)
         tail = re.match(r"[ \t]*(\\\\)?[ \t]*\n?", tex[e:])
         tex = tex[:m.start()] + tex[e + tail.end():]
+
+    # 3b. Rewrite the profile summary (the \small{...} paragraph under \section{Profile}).
+    if spec.get("profile"):
+        text = re.sub(r"\s+", " ", spec["profile"]).strip()
+        bad = [t for t in check_terms(base_plain, text, "profile", True) if t not in allow_terms]
+        if bad and not allow_new_terms:
+            raise SystemExit(f"Honesty guard: profile introduces terms not in the base CV: {', '.join(bad)}\n"
+                             "Rephrase, or add them to allowTerms only if verified.")
+        flagged += bad
+        m = re.search(r"\\section\{Profile\}\s*\\small\{", tex[body_start(tex):])
+        if not m:
+            raise SystemExit("No \\section{Profile} followed by \\small{...} in the base CV")
+        b = body_start(tex) + m.end() - 1
+        e = braced(tex, b)
+        tex = tex[:b + 1] + esc(text) + tex[e - 1:]
 
     # 4. Section order: every \section exactly once, in the order given.
     if spec.get("sectionOrder"):

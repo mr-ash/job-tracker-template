@@ -54,5 +54,14 @@
   ],
   "baseCv": "base-cv",
   "source": "posting",
-  "honesty": "Reworded and reordered base CV content only. No new experience, tools, employers, dates or metrics."
+  "honesty": "Rewrote the profile, reordered sections, and reworded and reordered base CV content only. No new experience, tools, employers, dates or metrics.",
+  "profile": "UX/UI Designer with 2 years of industry experience owning the end-to-end design of responsive web and mobile products, from concepts and wireframes to production-ready interfaces in Figma, supported by an MSc in Design Innovation from Maynooth University. Designed dashboards and workflows for a Partner Portal, worked within a design system of reusable components, and produced marketing posters and graphics. Strong at presenting design decisions, iterating on stakeholder feedback and collaborating closely with developers.",
+  "sectionOrder": [
+    "Profile",
+    "Work Experience",
+    "Technical Skills",
+    "Projects",
+    "Education",
+    "Leadership and Community"
+  ]
 }

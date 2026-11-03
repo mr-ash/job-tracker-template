@@ -61,5 +61,6 @@
       ]
     }
   ],
-  "honesty": "Reworded and reordered base CV content only (end-to-end feature ownership, developer collaboration, design-system work, usability testing). No new experience, tools, dates or metrics."
+  "honesty": "Rewrote the profile and reworded and reordered base CV content only. No new experience, tools, employers, dates or metrics.",
+  "profile": "Product and UX/UI Designer with 2 years of industry experience owning features end to end across responsive web and mobile products, supported by an MSc in Design Innovation from Maynooth University. Experienced in user research, usability testing, information architecture, user flows, prototyping and high-fidelity UI design in Figma, working within reusable components and product patterns. Strong at simplifying complex workflows and partnering with product stakeholders and developers from requirements through implementation."
 }

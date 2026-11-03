@@ -82,6 +82,7 @@ Write a spec file `cvs/tailored/<id>.json` (see the example one in that folder):
   products) that aren't in the base CV. Only use `--allow-new-terms` (or the spec's `allowTerms` /
   `allowSkills`) after checking the fact really is in the person's background, and say where it came
   from in `honesty`.
+- `profile`: a rewritten plain-text profile summary for this job (term-checked like `edits`).
 - More layout options (adding/removing bullets, section order, extra header links) are described at
   the top of `tailor_tex.py`.
 - To list the bullets you can use: `grep -o '\\resumeItem{.*}' cvs/base/base-cv.tex`
