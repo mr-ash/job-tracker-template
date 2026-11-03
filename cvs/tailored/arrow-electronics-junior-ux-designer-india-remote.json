@@ -1,0 +1,64 @@
+{
+  "jobId": "arrow-electronics-junior-ux-designer-india-remote",
+  "title": "Junior UX Designer",
+  "company": "Arrow Electronics",
+  "sourceUrl": "https://arrow.wd1.myworkdayjobs.com/ec/job/ahmedabad-india/junior-ux-designer_r247512",
+  "keywords": [
+    "enterprise application",
+    "dashboards",
+    "user journeys",
+    "wireframes",
+    "interactive prototypes",
+    "reusable components",
+    "design systems",
+    "design feasibility",
+    "engineering teams",
+    "complex workflows"
+  ],
+  "edits": [
+    {
+      "from": "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "to": "Designed and shipped responsive web and mobile experiences for core enterprise HRMS products including Task Management, Timesheet, Leave and Attendance, simplifying user and business requirements into intuitive digital workflows."
+    },
+    {
+      "from": "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback.",
+      "to": "Designed a Partner Portal from the ground up for Sales and Customer personas, creating enterprise dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback."
+    },
+    {
+      "from": "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "to": "Worked closely with developers and product stakeholders to refine requirements, validate design feasibility and support smooth implementation across desktop and mobile experiences."
+    }
+  ],
+  "reorder": [
+    [
+      "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback.",
+      "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions."
+    ]
+  ],
+  "skills": [
+    {
+      "label": "Design",
+      "items": [
+        "Interaction Design",
+        "Information Architecture",
+        "User Flows",
+        "User Journeys",
+        "Wireframing",
+        "Prototyping",
+        "UI Design",
+        "Responsive Design",
+        "User Research",
+        "Usability Testing",
+        "User Interviews",
+        "User-Centered Design"
+      ]
+    }
+  ],
+  "baseCv": "base-cv",
+  "source": "posting",
+  "honesty": "Reworded and reordered base CV content only. No new experience, tools, employers, dates or metrics."
+}

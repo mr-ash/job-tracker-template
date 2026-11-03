@@ -1,0 +1,69 @@
+{
+  "jobId": "optum-product-designer-ux-dublin",
+  "title": "Product Designer (UX Designer)",
+  "company": "Optum",
+  "sourceUrl": "https://builtindublin.ie/job/product-designer-ux-designer/11738196",
+  "keywords": [
+    "user research",
+    "customer interviews",
+    "journey maps",
+    "usability testing",
+    "user flows",
+    "wireframes",
+    "prototypes",
+    "dashboards",
+    "business applications",
+    "reusable UI patterns",
+    "reduce user effort"
+  ],
+  "edits": [
+    {
+      "from": "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback.",
+      "to": "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for managing leads, partners and customers while iterating designs based on stakeholder feedback."
+    },
+    {
+      "from": "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "to": "Designed and shipped responsive web and mobile experiences for core HRMS business applications including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows."
+    },
+    {
+      "from": "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "to": "Worked within existing product patterns and reusable components to keep the HRMS platform consistent, while identifying opportunities to reduce user effort and improve workflows."
+    },
+    {
+      "from": "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "to": "Collaborated with product stakeholders and developers to translate business requirements into clear design deliverables, validate design feasibility and support implementation across desktop and mobile."
+    }
+  ],
+  "reorder": [
+    [
+      "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback.",
+      "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+      "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns."
+    ]
+  ],
+  "skills": [
+    {
+      "label": "Design",
+      "items": [
+        "User Research",
+        "User Interviews",
+        "User Journeys",
+        "Usability Testing",
+        "User Flows",
+        "Wireframing",
+        "Prototyping",
+        "UI Design",
+        "Interaction Design",
+        "Information Architecture",
+        "Responsive Design",
+        "User-Centered Design"
+      ]
+    }
+  ],
+  "baseCv": "base-cv",
+  "source": "posting",
+  "honesty": "Reworded and reordered base CV content only. No new experience, tools, employers, dates or metrics."
+}
