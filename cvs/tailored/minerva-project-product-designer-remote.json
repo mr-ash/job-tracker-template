@@ -1,0 +1,80 @@
+{
+  "jobId": "minerva-project-product-designer-remote",
+  "title": "Product Designer",
+  "company": "Minerva Project",
+  "baseCv": "base-cv",
+  "source": "posting",
+  "sourceUrl": "https://ie.indeed.com/viewjob?jk=e9a1d119b0906e96",
+  "keywords": [
+    "complex software clear and usable",
+    "user flows",
+    "user roles",
+    "edge cases",
+    "prototypes in Figma",
+    "components",
+    "responsive",
+    "accessible interactions",
+    "design system",
+    "implementation review",
+    "user research",
+    "education software",
+    "complex business applications"
+  ],
+  "edits": [
+    {
+      "from": "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "to": "Designed and shipped responsive web and mobile experiences for complex HRMS business software including Task Management, Timesheet, Leave and Attendance, turning user and business requirements into clear, usable workflows."
+    },
+    {
+      "from": "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback.",
+      "to": "Designed a Partner Portal from the ground up for Sales and Customer personas, mapping what each user role needed across dashboards and workflows for leads, partners and customers, and iterating based on stakeholder feedback."
+    },
+    {
+      "from": "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "to": "Reused existing product patterns and components to keep the HRMS platform consistent, while identifying where improved interaction patterns were needed in key workflows."
+    },
+    {
+      "from": "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "to": "Worked closely with developers and product stakeholders to refine requirements, agree on feasible design scope and support implementation across desktop and mobile experiences."
+    }
+  ],
+  "reorder": [
+    [
+      "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback.",
+      "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+      "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences."
+    ]
+  ],
+  "skills": [
+    {
+      "label": "Design",
+      "items": [
+        "Interaction Design",
+        "User Flows",
+        "Responsive Design",
+        "UI Design",
+        "Prototyping",
+        "Wireframing",
+        "User Research",
+        "Usability Testing",
+        "User Interviews",
+        "Information Architecture",
+        "User Journeys",
+        "User-Centered Design"
+      ]
+    }
+  ],
+  "sectionOrder": [
+    "Profile",
+    "Technical Skills",
+    "Work Experience",
+    "Projects",
+    "Education",
+    "Leadership and Community"
+  ],
+  "profile": "UX/UI designer with 2 years of industry experience making complex business software clear and usable across responsive web and mobile, supported by an MSc in Design Innovation from Maynooth University. Experienced in mapping user flows for different user roles and creating wireframes, interactive prototypes and high-fidelity UI in Figma with reusable components. Design decisions are based on user research and usability testing and refined through feedback and close work with developers, with earlier experience designing an education-sector product for schools.",
+  "honesty": "Rewrote the profile and reworded, reordered and re-sectioned base CV content only. No new experience, tools, employers, dates or metrics."
+}

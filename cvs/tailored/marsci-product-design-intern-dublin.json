@@ -1,0 +1,74 @@
+{
+  "jobId": "marsci-product-design-intern-dublin",
+  "title": "Product Designer (Product Design Intern)",
+  "company": "MarSci",
+  "baseCv": "base-cv",
+  "source": "posting",
+  "sourceUrl": "https://ie.indeed.com/viewjob?jk=1fcced90123626a0",
+  "keywords": [
+    "dashboard",
+    "user flows",
+    "onboarding",
+    "non-technical users",
+    "user research",
+    "usability tests",
+    "design system",
+    "Figma",
+    "prototyping",
+    "complex information simple",
+    "process"
+  ],
+  "edits": [
+    {
+      "from": "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+      "to": "Ran interviews and usability testing with HR administrators, managers and employees, turning findings into actionable UX improvements and interface decisions."
+    },
+    {
+      "from": "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "to": "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, turning user and business requirements into simple, intuitive workflows for everyday users."
+    },
+    {
+      "from": "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "to": "Kept the HRMS platform consistent using existing product patterns and reusable components, while identifying opportunities to simplify workflows and interaction patterns."
+    }
+  ],
+  "reorder": [
+    [
+      "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback.",
+      "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+      "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences."
+    ]
+  ],
+  "skills": [
+    {
+      "label": "Design",
+      "items": [
+        "User Research",
+        "Usability Testing",
+        "User Flows",
+        "Prototyping",
+        "UI Design",
+        "Wireframing",
+        "Interaction Design",
+        "User Interviews",
+        "Information Architecture",
+        "Responsive Design",
+        "User Journeys",
+        "User-Centered Design"
+      ]
+    }
+  ],
+  "sectionOrder": [
+    "Profile",
+    "Technical Skills",
+    "Work Experience",
+    "Projects",
+    "Education",
+    "Leadership and Community"
+  ],
+  "profile": "UX/UI designer with 2 years of industry experience making complex workflows simple for everyday users across web and mobile, supported by an MSc in Design Innovation from Maynooth University. Experienced in designing dashboards and core user flows, running user interviews and usability testing, and turning what users say into design improvements. Strong at prototyping and high-fidelity UI in Figma with reusable components, and at documenting the process from research to final screens.",
+  "honesty": "Rewrote the profile and reworded, reordered and re-sectioned base CV content only. No new experience, tools, employers, dates or metrics."
+}

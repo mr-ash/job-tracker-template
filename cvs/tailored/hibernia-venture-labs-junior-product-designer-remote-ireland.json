@@ -1,0 +1,89 @@
+{
+  "jobId": "hibernia-venture-labs-junior-product-designer-remote-ireland",
+  "title": "Junior Product Designer",
+  "company": "Hibernia Venture Labs",
+  "baseCv": "base-cv",
+  "source": "posting",
+  "sourceUrl": "https://hibernia-labs.com/job-junior-product-designer.html",
+  "keywords": [
+    "full design lifecycle",
+    "wireframes",
+    "user flows",
+    "prototypes",
+    "high-fidelity UI",
+    "Figma components, auto layout, variants",
+    "design systems",
+    "interviews",
+    "usability testing",
+    "feedback synthesis",
+    "collaborate with engineers",
+    "present design decisions"
+  ],
+  "edits": [
+    {
+      "from": "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "to": "Owned the full design lifecycle across assigned modules, from user flows and wireframes to interactive prototypes and development-ready high-fidelity UI in Figma."
+    },
+    {
+      "from": "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "to": "Maintained consistency across the HRMS platform using existing product patterns and reusable components, while identifying opportunities to improve workflows and interaction patterns."
+    },
+    {
+      "from": "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+      "to": "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing feedback into actionable UX improvements and interface decisions."
+    },
+    {
+      "from": "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "to": "Collaborated with developers and product stakeholders to refine requirements, validate design feasibility and support accurate implementation across desktop and mobile experiences."
+    }
+  ],
+  "reorder": [
+    [
+      "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+      "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback."
+    ]
+  ],
+  "skills": [
+    {
+      "label": "Design",
+      "items": [
+        "Wireframing",
+        "Prototyping",
+        "User Flows",
+        "UI Design",
+        "User Research",
+        "User Interviews",
+        "Usability Testing",
+        "Interaction Design",
+        "Responsive Design",
+        "Information Architecture",
+        "User Journeys",
+        "User-Centered Design"
+      ]
+    },
+    {
+      "label": "Design Systems",
+      "items": [
+        "Components",
+        "Auto Layout",
+        "Variants",
+        "Reusable Patterns",
+        "Responsive Components"
+      ]
+    }
+  ],
+  "sectionOrder": [
+    "Profile",
+    "Technical Skills",
+    "Work Experience",
+    "Projects",
+    "Education",
+    "Leadership and Community"
+  ],
+  "profile": "UX/UI designer with 2 years of industry experience designing and shipping web and mobile applications, supported by an MSc in Design Innovation from Maynooth University. Experienced across the full design lifecycle, from user research, interviews and usability testing through user flows, wireframes and interactive prototypes to high-fidelity UI in Figma. Strong at using reusable components, variants and auto layout to keep products consistent, and used to collaborating closely with developers and explaining design decisions to stakeholders.",
+  "honesty": "Rewrote the profile and reworded, reordered and re-sectioned base CV content only. No new experience, tools, employers, dates or metrics."
+}
