@@ -1,0 +1,98 @@
+{
+  "jobId": "humana-design-service-designer-dublin",
+  "title": "Service Designer (Freelance / Part-time)",
+  "company": "Humana Design",
+  "baseCv": "base-cv",
+  "source": "posting",
+  "sourceUrl": "https://humana.design/jobs",
+  "keywords": [
+    "service design",
+    "design research",
+    "interviews",
+    "fieldwork",
+    "sense-making",
+    "qualitative data",
+    "insight",
+    "service-level prototyping",
+    "synthesising sessions",
+    "people who use and deliver services",
+    "human-centred design"
+  ],
+  "profile": "Service and UX designer with an MSc in Design Innovation from Maynooth University and 2 years of industry experience. Experienced in qualitative design research, including stakeholder interviews, user interviews, usability testing and thematic analysis, and in synthesizing messy findings into insight and end-to-end service concepts that teams can act on. Designed, prototyped and tested services with real communities in Ireland, from student-run blood-donation drives to Liberties residents in Dublin, working closely with stakeholders and iterating designs based on their feedback.",
+  "edits": [
+    {
+      "from": "Conducted six stakeholder interviews and thematic analysis to identify service breakdowns contributing to blood-donor drop-off, translating research insights into an end-to-end digital service concept.",
+      "to": "Conducted six stakeholder interviews and thematic analysis to make sense of the service breakdowns behind blood-donor drop-off, translating qualitative insights into an end-to-end service concept."
+    },
+    {
+      "from": "Designed, built and tested ``The Callback,'' a working web application, iterating the experience based on real-world coordinator feedback and usability findings.",
+      "to": "Designed, prototyped and tested the service through ``The Callback,'' a working web application, iterating it based on real-world coordinator feedback and usability findings."
+    },
+    {
+      "from": "Rebuilt it from a polished app into a lighter, grassroots-friendly layer after resident testing, so it works with how the community already organizes.",
+      "to": "Tested the service with residents, then rebuilt it from a polished app into a lighter, grassroots-friendly layer that works with how the community already organizes."
+    },
+    {
+      "from": "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+      "to": "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing qualitative findings into actionable insights and design decisions."
+    },
+    {
+      "from": "Conducted user research for a news application and packaged the findings into a documented case study that guided design decisions.",
+      "to": "Conducted user research for a news application and synthesized the findings into a documented case study that guided design decisions."
+    }
+  ],
+  "reorder": [
+    [
+      "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+      "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback.",
+      "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns."
+    ],
+    [
+      "Conducted user research for a news application and packaged the findings into a documented case study that guided design decisions.",
+      "Delivered the full UX process for an education-sector CRM aimed at schools - research, user flows, wireframes, and high-fidelity prototypes.",
+      "Produced marketing posters and graphics that supported the company's branding and campaign outreach."
+    ]
+  ],
+  "skills": [
+    {
+      "label": "Research & Analysis",
+      "items": [
+        "Qualitative Research",
+        "Thematic Analysis",
+        "Research Synthesis",
+        "Surveys",
+        "Basic Data Analytics"
+      ]
+    },
+    {
+      "label": "Design",
+      "items": [
+        "User Research",
+        "User Interviews",
+        "User Journeys",
+        "Prototyping",
+        "Usability Testing",
+        "User-Centered Design",
+        "User Flows",
+        "Wireframing",
+        "Interaction Design",
+        "Information Architecture"
+      ]
+    }
+  ],
+  "removeSkillsLines": [
+    "Design Systems"
+  ],
+  "sectionOrder": [
+    "Profile",
+    "Projects",
+    "Work Experience",
+    "Technical Skills",
+    "Education",
+    "Leadership and Community"
+  ],
+  "honesty": "Rewrote the profile and reworded, reordered and re-sectioned base CV content only. No facilitation or workshop experience claimed. No new experience, tools, employers, dates or metrics."
+}

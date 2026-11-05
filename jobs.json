@@ -100,5 +100,26 @@
     "contact": null,
     "tailoredCv": "cvs/tailored/marsci-product-design-intern-dublin.pdf",
     "status": "new"
+  },
+  {
+    "id": "humana-design-service-designer-dublin",
+    "title": "Service Designer (Freelance / Part-time)",
+    "company": "Humana Design",
+    "location": "Dublin (in person, hybrid)",
+    "contractType": "Freelance / Part-time",
+    "salary": null,
+    "postedDate": null,
+    "closingDate": null,
+    "url": "https://humana.design/jobs",
+    "cv": "Base CV",
+    "note": "Small Dublin service design consultancy (government, health, energy) working directly with Gerry Scullion. Explicitly welcomes people who studied service design but haven't worked as one yet, which fits his MSc Design Innovation, The Kept Promise and Spot-to-Plot. Mild stretch: experienced service designers have the edge, and it asks for facilitation, which isn't on his CV. Must live in or near Dublin (he does). Ad-hoc, project-based paid work, not a permanent job. They want no CV: just an email with an intro, an honest self-assessment and a LinkedIn link. No closing date. No right-to-work requirement stated.",
+    "addedDate": "2026-11-05",
+    "contact": {
+      "name": "Gerry Scullion",
+      "title": "Founder, Humana Design",
+      "email": "gerry@humana.design"
+    },
+    "tailoredCv": "cvs/tailored/humana-design-service-designer-dublin.pdf",
+    "status": "new"
   }
 ]
