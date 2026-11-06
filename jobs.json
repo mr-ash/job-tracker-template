@@ -121,5 +121,39 @@
     },
     "tailoredCv": "cvs/tailored/humana-design-service-designer-dublin.pdf",
     "status": "new"
+  },
+  {
+    "id": "accenture-the-dock-interaction-designer-dublin",
+    "title": "Interaction Designer (The Dock)",
+    "company": "Accenture",
+    "location": "Dublin",
+    "contractType": "Full-time",
+    "salary": null,
+    "postedDate": null,
+    "closingDate": null,
+    "url": "https://ie.indeed.com/viewjob?jk=6bd467e4611a5eed",
+    "cv": "Base CV",
+    "note": "Interaction designer at Accenture's R&D hub, The Dock, in Grand Canal Dock. The posting asks for a design qualification or equivalent experience, Figma, Adobe and service design principles, with no minimum years. It matches his MSc service design work and his HRMS end-to-end UX. Stretch: no level is stated (support/contribute wording reads junior-to-mid). Portfolio required. No right-to-work wording.",
+    "addedDate": "2026-11-06",
+    "contact": null,
+    "tailoredCv": "cvs/tailored/accenture-the-dock-interaction-designer-dublin.pdf",
+    "status": "new"
+  },
+  {
+    "id": "revolut-product-designer-platform-remote-ireland",
+    "title": "Product Designer (Platform)",
+    "company": "Revolut",
+    "location": "Remote – Ireland",
+    "contractType": "Full-time",
+    "salary": null,
+    "postedDate": null,
+    "closingDate": null,
+    "url": "https://ie.indeed.com/viewjob?jk=e6222be9061e252b",
+    "cv": "Base CV",
+    "note": "Internal tools and back-office platform design (support, ops, AI tooling). This maps well onto his in-house HRMS modules and Partner Portal dashboards, and the posting lists a CS degree as nice to have. Stretch: it asks for 3+ years (he has about 2 plus the MSc). Remote position based in Ireland, so you must live in Ireland. No sponsorship wording.",
+    "addedDate": "2026-11-06",
+    "contact": null,
+    "tailoredCv": "cvs/tailored/revolut-product-designer-platform-remote-ireland.pdf",
+    "status": "new"
   }
 ]

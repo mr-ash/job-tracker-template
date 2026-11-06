@@ -1,0 +1,99 @@
+{
+  "jobId": "accenture-the-dock-interaction-designer-dublin",
+  "title": "Interaction Designer",
+  "company": "Accenture (The Dock)",
+  "baseCv": "base-cv",
+  "source": "posting",
+  "sourceUrl": "https://ie.indeed.com/viewjob?jk=6bd467e4611a5eed",
+  "keywords": [
+    "interaction design",
+    "service design",
+    "human-centred design",
+    "user flows",
+    "wireframes",
+    "information architecture",
+    "high-fidelity UI",
+    "interactive prototypes",
+    "Figma",
+    "Adobe",
+    "research synthesis",
+    "usability testing",
+    "multidisciplinary teams",
+    "design decisions"
+  ],
+  "profile": "Interaction and UX/UI Designer with 2 years of industry experience designing web and mobile products, supported by an MSc in Design Innovation from Maynooth University applying service design and human-centred design to real-world briefs. Experienced across the end-to-end design process, from user research and synthesis of research findings through user flows, information architecture, wireframes and interactive prototypes to high-fidelity UI design in Figma. Strong at explaining design decisions with user insights and working with developers and stakeholders in multidisciplinary teams to turn complex user and business needs into clear, accessible experiences.",
+  "edits": [
+    {
+      "from": "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "to": "Supported the end-to-end design process across assigned modules, from discovery to detailed design, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma."
+    },
+    {
+      "from": "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+      "to": "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing research findings into insights, interface decisions and actionable UX improvements."
+    },
+    {
+      "from": "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "to": "Collaborated with product stakeholders and developers in multidisciplinary teams to refine requirements, explain design decisions, validate feasibility and support implementation across desktop and mobile."
+    },
+    {
+      "from": "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "to": "Worked within existing product patterns and reusable components to keep the HRMS platform consistent while exploring new interaction patterns and better workflows."
+    },
+    {
+      "from": "Conducted six stakeholder interviews and thematic analysis to identify service breakdowns contributing to blood-donor drop-off, translating research insights into an end-to-end digital service concept.",
+      "to": "Conducted six stakeholder interviews and thematic analysis to identify service breakdowns behind blood-donor drop-off, translating research insights into an end-to-end digital service concept using service design methods."
+    }
+  ],
+  "reorder": [
+    [
+      "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+      "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback."
+    ],
+    [
+      "Conducted six stakeholder interviews and thematic analysis to identify service breakdowns contributing to blood-donor drop-off, translating research insights into an end-to-end digital service concept.",
+      "Designed, built and tested ``The Callback,'' a working web application, iterating the experience based on real-world coordinator feedback and usability findings.",
+      "A service tackling blood-donor drop-off in student-run donation drives - why first-time donors never return, and how to bring them back."
+    ]
+  ],
+  "skills": [
+    {
+      "label": "Design",
+      "items": [
+        "Interaction Design",
+        "User Flows",
+        "Wireframing",
+        "Prototyping",
+        "Information Architecture",
+        "UI Design",
+        "User-Centered Design",
+        "User Research",
+        "Usability Testing",
+        "User Journeys",
+        "Responsive Design",
+        "User Interviews"
+      ]
+    },
+    {
+      "label": "Research & Analysis",
+      "items": [
+        "Research Synthesis",
+        "Qualitative Research",
+        "Thematic Analysis",
+        "Surveys"
+      ]
+    }
+  ],
+  "sectionOrder": [
+    "Profile",
+    "Technical Skills",
+    "Work Experience",
+    "Projects",
+    "Education",
+    "Leadership and Community"
+  ],
+  "honesty": "Rewrote the profile and reworded/reordered base CV content only. Service design wording comes from the MSc and The Kept Promise project in the base CV. No new experience, tools, employers, dates or metrics."
+}
