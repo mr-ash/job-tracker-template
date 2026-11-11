@@ -155,5 +155,22 @@
     "contact": null,
     "tailoredCv": "cvs/tailored/revolut-product-designer-platform-remote-ireland.pdf",
     "status": "new"
+  },
+  {
+    "id": "procore-associate-product-manager-dublin",
+    "title": "Associate Product Manager (Cost Management)",
+    "company": "Procore Technologies",
+    "location": "Dublin (on-site)",
+    "contractType": "Full-time",
+    "salary": "€56,560–€77,770",
+    "postedDate": "2026-11-10",
+    "closingDate": null,
+    "url": "https://startup.jobs/associate-product-manager-procore-technologies-constru-10736426",
+    "cv": "Base CV",
+    "note": "Stretch: PM role, and it asks for 1+ year in product management or 2+ years in a customer-facing role, while his experience is in design. Still a reasonable fit for B2B SaaS: partnering with UX designers and engineers, customer discovery, synthesising user feedback into requirements, and a Computer Science degree is listed. Domain is construction finance (budgets, cost control), which he would need to learn. Posting only says applicants must work from the Dublin office; no sponsorship wording seen.",
+    "addedDate": "2026-11-11",
+    "contact": null,
+    "tailoredCv": "cvs/tailored/procore-associate-product-manager-dublin.pdf",
+    "status": "new"
   }
 ]

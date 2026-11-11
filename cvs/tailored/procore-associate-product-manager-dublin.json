@@ -1,0 +1,43 @@
+{
+  "jobId": "procore-associate-product-manager-dublin",
+  "title": "Associate Product Manager",
+  "company": "Procore Technologies",
+  "baseCv": "base-cv",
+  "source": "posting",
+  "sourceUrl": "https://startup.jobs/associate-product-manager-procore-technologies-constru-10736426",
+  "keywords": ["customer discovery", "user research", "product requirements", "edge cases", "end-to-end user workflows", "cross-functional", "UX designers and engineers", "synthesize user feedback", "structured solutions", "technical and non-technical audiences", "Computer Science"],
+  "profile": "UX/UI Designer with 2 years of industry experience shaping HRMS workflows alongside product stakeholders and developers, supported by an MSc in Design Innovation from Maynooth University and a Bachelor of Technology in Computer Science and Engineering. Experienced in customer discovery through user interviews, usability testing and research synthesis, and in translating customer needs and business requirements into clear requirements, user flows and development-ready designs. Strong at collaborating across engineering, design and business teams, simplifying complex end-to-end workflows and explaining decisions to technical and non-technical audiences.",
+  "edits": [
+    {"from": "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+     "to": "Ran customer discovery through interviews and usability testing with HR administrators, managers and employees, synthesizing user feedback into actionable product improvements and interface decisions."},
+    {"from": "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+     "to": "Collaborated with product stakeholders and developers to refine product requirements, think through edge cases, validate feasibility and support implementation across desktop and mobile."},
+    {"from": "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+     "to": "Designed and shipped web and mobile features for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating customer problems and business requirements into intuitive workflows."},
+    {"from": "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+     "to": "Worked within existing product patterns and reusable components to keep the HRMS platform consistent while identifying workflow problems and proposing structured improvements."},
+    {"from": "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+     "to": "Owned assigned modules end to end, from discovery and user flows to wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma."},
+    {"from": "Conducted six stakeholder interviews and thematic analysis to identify service breakdowns contributing to blood-donor drop-off, translating research insights into an end-to-end digital service concept.",
+     "to": "Conducted six stakeholder interviews and thematic analysis to find the root causes of blood-donor drop-off, translating research insights into an end-to-end digital service concept."}
+  ],
+  "reorder": [
+    ["Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+     "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+     "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+     "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback.",
+     "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+     "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns."],
+    ["Conducted six stakeholder interviews and thematic analysis to identify service breakdowns contributing to blood-donor drop-off, translating research insights into an end-to-end digital service concept.",
+     "Designed, built and tested ``The Callback,'' a working web application, iterating the experience based on real-world coordinator feedback and usability findings.",
+     "A service tackling blood-donor drop-off in student-run donation drives - why first-time donors never return, and how to bring them back."]
+  ],
+  "skills": [
+    {"label": "Design", "items": ["User Research", "User Interviews", "User Flows", "User Journeys", "Usability Testing", "Prototyping", "Wireframing", "Information Architecture", "Interaction Design", "UI Design", "User-Centered Design"]},
+    {"label": "Research & Analysis", "items": ["Research Synthesis", "Qualitative Research", "Basic Data Analytics", "Surveys", "Thematic Analysis"]}
+  ],
+  "removeSkillsLines": ["Design Systems"],
+  "sectionOrder": ["Profile", "Work Experience", "Projects", "Education", "Technical Skills", "Leadership and Community"],
+  "pdfTitle": "Ashwin Girish CV - Procore Associate Product Manager",
+  "honesty": "Rewrote the profile and reworded/reordered base CV content only. Discovery, requirements and cross-functional wording describe the Mewurk interview, stakeholder and developer work already in the base CV. No PM title, finance or construction experience claimed; no new tools, employers, dates or metrics."
+}
