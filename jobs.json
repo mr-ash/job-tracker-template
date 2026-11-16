@@ -172,5 +172,39 @@
     "contact": null,
     "tailoredCv": "cvs/tailored/procore-associate-product-manager-dublin.pdf",
     "status": "new"
+  },
+  {
+    "id": "bjak-product-designer-ui-ux-remote-ireland",
+    "title": "Product Designer (UI/UX)",
+    "company": "Bjak",
+    "location": "Remote – Ireland",
+    "contractType": "Full-time",
+    "salary": null,
+    "postedDate": null,
+    "closingDate": null,
+    "url": "https://jobs.ashbyhq.com/bjakcareer/aaf21dcf-7ee5-4033-8cc8-e502dd58407c",
+    "cv": "Base CV",
+    "note": "Stretch: asks 3+ years. Fintech/insurance app; end-to-end flows, wireframes, prototypes, reusable components across web and mobile match his Mewurk work. Remote but candidates must already be based in Ireland (he is in Dublin); no sponsorship mentioned.",
+    "addedDate": "2026-11-16",
+    "contact": null,
+    "tailoredCv": "cvs/tailored/bjak-product-designer-ui-ux-remote-ireland.pdf",
+    "status": "new"
+  },
+  {
+    "id": "arekibo-ux-ui-designer-dublin",
+    "title": "UX-UI Designer",
+    "company": "Arekibo",
+    "location": "Dublin (Hybrid, 2-3 days onsite)",
+    "contractType": "Full-time",
+    "salary": null,
+    "postedDate": null,
+    "closingDate": null,
+    "url": "https://www.arekibo.com/careers/current-roles/ux-ui-designer",
+    "cv": "Base CV",
+    "note": "Stretch: asks 3+ years, ideally agency. Digital agency for enterprise and public-sector clients; research, usability testing, wireframes, prototypes, hi-fi UI and design systems fit well. Right to work: 'Applicants must be eligible to work in Ireland' – check Stamp 1G timing.",
+    "addedDate": "2026-11-16",
+    "contact": null,
+    "tailoredCv": "cvs/tailored/arekibo-ux-ui-designer-dublin.pdf",
+    "status": "new"
   }
 ]
