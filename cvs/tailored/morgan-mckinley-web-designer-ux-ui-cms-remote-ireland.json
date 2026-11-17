@@ -1,0 +1,111 @@
+{
+  "jobId": "morgan-mckinley-web-designer-ux-ui-cms-remote-ireland",
+  "title": "Web Designer - UX, UI, CMS",
+  "company": "Morgan McKinley (recruiter)",
+  "baseCv": "base-cv",
+  "source": "posting",
+  "sourceUrl": "https://www.irishjobs.ie/job/web-designer-ux-ui-cms/morgan-mckinley-job108312124",
+  "keywords": [
+    "web design",
+    "graphic design",
+    "UX/UI design principles",
+    "responsive web design",
+    "desktop and mobile",
+    "user-friendly experience",
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "marketing materials",
+    "brand consistency",
+    "stakeholders",
+    "digital projects"
+  ],
+  "profile": "UX/UI Designer with 2 years of industry experience designing responsive, user-friendly web and mobile experiences, supported by an MSc in Design Innovation from Maynooth University. Experienced in applying UX/UI design principles alongside visual design in Adobe Photoshop and Adobe Illustrator, including marketing posters and graphics that supported branding and campaign outreach, and in user research, usability testing, wireframing, prototyping and high-fidelity UI design in Figma. Strong at working with stakeholders and developers to deliver digital projects across desktop and mobile while keeping designs consistent.",
+  "edits": [
+    {
+      "from": "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "to": "Designed and shipped responsive, user-friendly web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows."
+    },
+    {
+      "from": "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "to": "Worked with stakeholders and developers to refine requirements, validate design feasibility and support implementation of design work across desktop and mobile experiences."
+    },
+    {
+      "from": "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "to": "Maintained design consistency across the HRMS platform by working within existing product patterns and reusable components, while identifying opportunities to improve workflows and interaction patterns."
+    },
+    {
+      "from": "Produced marketing posters and graphics that supported the company's branding and campaign outreach.",
+      "to": "Produced marketing posters and graphics that supported brand consistency and campaign outreach for the company."
+    }
+  ],
+  "reorder": [
+    [
+      "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+      "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback."
+    ],
+    [
+      "Produced marketing posters and graphics that supported the company's branding and campaign outreach.",
+      "Delivered the full UX process for an education-sector CRM aimed at schools - research, user flows, wireframes, and high-fidelity prototypes.",
+      "Conducted user research for a news application and packaged the findings into a documented case study that guided design decisions."
+    ]
+  ],
+  "skills": [
+    {
+      "label": "Tools",
+      "items": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Figma",
+        "Adobe XD"
+      ]
+    },
+    {
+      "label": "Design",
+      "items": [
+        "UI Design",
+        "Responsive Design",
+        "User Flows",
+        "User Journeys",
+        "Wireframing",
+        "Prototyping",
+        "Usability Testing",
+        "User Research",
+        "Interaction Design",
+        "Information Architecture",
+        "User-Centered Design"
+      ]
+    },
+    {
+      "label": "Design Systems",
+      "items": [
+        "Reusable Patterns",
+        "Components",
+        "Responsive Components",
+        "Variants",
+        "Auto Layout"
+      ]
+    },
+    {
+      "label": "Research & Analysis",
+      "items": [
+        "Basic Data Analytics",
+        "Surveys",
+        "Qualitative Research",
+        "Research Synthesis"
+      ]
+    }
+  ],
+  "sectionOrder": [
+    "Profile",
+    "Technical Skills",
+    "Work Experience",
+    "Projects",
+    "Education",
+    "Leadership and Community"
+  ],
+  "honesty": "Rewrote the profile and reworded, reordered and re-sectioned base CV content only. No CMS, email marketing, SEO, InDesign or web analytics experience claimed. No new experience, tools, employers, dates or metrics."
+}
