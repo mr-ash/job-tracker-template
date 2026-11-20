@@ -223,5 +223,22 @@
     "contact": null,
     "tailoredCv": "cvs/tailored/morgan-mckinley-web-designer-ux-ui-cms-remote-ireland.pdf",
     "status": "new"
+  },
+  {
+    "id": "jobgether-product-designer-remote-ireland",
+    "title": "Product Designer",
+    "company": "Jobgether (recruiter)",
+    "location": "Remote – Ireland",
+    "contractType": "Full-time",
+    "salary": null,
+    "postedDate": null,
+    "closingDate": null,
+    "url": "https://jobs.lever.co/jobgether/fca3b549-9762-4a04-a62a-87a2b14a276f",
+    "cv": "Base CV",
+    "note": "STRETCH: asks for 3+ years as a Product Designer plus hands-on behavioural analytics (FullStory/Hotjar/GA) and product-metrics experience he doesn't have; iGaming/B2C product. Fits his core skills well: user research, usability testing, user flows, wireframes, Figma prototypes, components/Auto Layout/variants, working with PMs and developers. Listed by Jobgether for an unnamed partner; fully remote but the candidate must be based in Ireland (he is). Right to work not mentioned in the posting.",
+    "addedDate": "2026-11-20",
+    "contact": null,
+    "tailoredCv": "cvs/tailored/jobgether-product-designer-remote-ireland.pdf",
+    "status": "new"
   }
 ]

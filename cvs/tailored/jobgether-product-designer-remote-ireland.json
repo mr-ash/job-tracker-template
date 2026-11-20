@@ -1,0 +1,47 @@
+{
+  "jobId": "jobgether-product-designer-remote-ireland",
+  "title": "Product Designer",
+  "company": "Jobgether (recruiter)",
+  "baseCv": "base-cv",
+  "source": "posting",
+  "sourceUrl": "https://jobs.lever.co/jobgether/fca3b549-9762-4a04-a62a-87a2b14a276f",
+  "keywords": ["user journeys", "user flows", "wireframes", "interactive prototypes", "user research", "usability testing", "design hypotheses", "complex user scenarios", "design system", "components", "Auto Layout", "variants", "collaborate with Product Managers and developers", "present design decisions"],
+  "profile": "Product Designer with 2 years of industry experience designing responsive web and mobile products end to end, supported by an MSc in Design Innovation from Maynooth University. Experienced in user research, user interviews, usability testing and research synthesis, and in turning findings into user flows, wireframes, interactive prototypes and high-fidelity UI in Figma for complex user journeys. Strong at working within reusable components and design patterns, preparing development-ready designs, and collaborating closely with product stakeholders and developers to explain design decisions and ship intuitive digital experiences.",
+  "edits": [
+    {"from": "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+     "to": "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, turning user needs and business objectives into intuitive user journeys."},
+    {"from": "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+     "to": "Owned the end-to-end design process across assigned modules, from user flows and wireframes to interactive prototypes and development-ready high-fidelity interfaces in Figma."},
+    {"from": "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+     "to": "Conducted user interviews and usability testing with HR administrators, managers and employees, interpreting findings to identify UX problems and turn them into actionable design improvements."},
+    {"from": "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback.",
+     "to": "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and complex workflows for leads, partners and customers and iterating designs based on stakeholder feedback."},
+    {"from": "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+     "to": "Collaborated closely with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences."},
+    {"from": "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+     "to": "Worked within existing product patterns and reusable components to keep the HRMS platform consistent, while identifying opportunities to improve workflows and interaction patterns."}
+  ],
+  "reorder": [
+    [
+      "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+      "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback.",
+      "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns."
+    ],
+    [
+      "A service tackling blood-donor drop-off in student-run donation drives - why first-time donors never return, and how to bring them back.",
+      "Designed, built and tested ``The Callback,'' a working web application, iterating the experience based on real-world coordinator feedback and usability findings.",
+      "Conducted six stakeholder interviews and thematic analysis to identify service breakdowns contributing to blood-donor drop-off, translating research insights into an end-to-end digital service concept."
+    ]
+  ],
+  "skills": [
+    {"label": "Tools", "items": ["Figma", "Adobe XD", "Adobe Photoshop", "Adobe Illustrator"]},
+    {"label": "Design", "items": ["User Flows", "Wireframing", "Prototyping", "User Research", "Usability Testing", "User Journeys", "UI Design", "Responsive Design", "Interaction Design", "Information Architecture", "User-Centered Design", "User Interviews"]},
+    {"label": "Design Systems", "items": ["Components", "Auto Layout", "Variants", "Reusable Patterns", "Responsive Components"]},
+    {"label": "Research & Analysis", "items": ["Research Synthesis", "Qualitative Research", "Basic Data Analytics", "Surveys", "Thematic Analysis"]}
+  ],
+  "sectionOrder": ["Profile", "Technical Skills", "Work Experience", "Projects", "Education", "Leadership and Community"],
+  "honesty": "Rewrote the profile and reworded, reordered and re-sectioned base CV content only. No behavioural analytics tools, iGaming, A/B testing or front-end coding experience claimed. No new experience, tools, employers, dates or metrics."
+}
