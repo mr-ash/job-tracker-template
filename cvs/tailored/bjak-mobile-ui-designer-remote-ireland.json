@@ -1,0 +1,47 @@
+{
+  "jobId": "bjak-mobile-ui-designer-remote-ireland",
+  "title": "Mobile UI Designer",
+  "company": "Bjak",
+  "baseCv": "base-cv",
+  "source": "posting",
+  "sourceUrl": "https://himalayas.app/companies/bjak/jobs/mobile-ui-designer-7971477814",
+  "keywords": ["mobile UI", "wireframes", "user flows", "prototypes", "production-ready UI", "design systems", "reusable components", "Auto Layout", "Figma", "interactive prototyping", "usability", "interaction design", "responsive layouts", "visual hierarchy", "work closely with developers", "simplify complex workflows"],
+  "profile": "UI/UX Designer with 2 years of industry experience designing and shipping responsive mobile and web products, supported by an MSc in Design Innovation from Maynooth University. Experienced in creating user flows, wireframes, interactive prototypes and production-ready high-fidelity UI in Figma, working within reusable components and design patterns to keep interfaces consistent across devices. Strong at simplifying complex workflows into clean, intuitive interfaces, grounding design decisions in usability testing and user research, and collaborating closely with developers to support accurate implementation.",
+  "edits": [
+    {"from": "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+     "to": "Designed and shipped responsive mobile and web interfaces for core HRMS products including Task Management, Timesheet, Leave and Attendance, simplifying complex workflows into clean, intuitive experiences."},
+    {"from": "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+     "to": "Owned the end-to-end design process across assigned modules, creating user flows, wireframes, interactive prototypes and production-ready high-fidelity UI in Figma."},
+    {"from": "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+     "to": "Worked within reusable components and existing product patterns to keep the interface consistent across screens and devices, while improving workflows and interaction patterns."},
+    {"from": "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+     "to": "Worked closely with developers and product stakeholders to refine requirements, validate design feasibility and support accurate implementation across mobile and desktop."},
+    {"from": "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+     "to": "Conducted interviews and usability testing with HR administrators, managers and employees, using the findings to iterate on interface decisions and usability improvements."},
+    {"from": "Designed a mobile app turning a sprawling heritage park into a guided, playful journey for families, taken from visitor research through to an interactive prototype.",
+     "to": "Designed a mobile app turning a sprawling heritage park into a guided, playful journey for families, taken from visitor research and user flows through to an interactive prototype."}
+  ],
+  "reorder": [
+    [
+      "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+      "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback."
+    ],
+    [
+      "A service tackling blood-donor drop-off in student-run donation drives - why first-time donors never return, and how to bring them back.",
+      "Designed, built and tested ``The Callback,'' a working web application, iterating the experience based on real-world coordinator feedback and usability findings.",
+      "Conducted six stakeholder interviews and thematic analysis to identify service breakdowns contributing to blood-donor drop-off, translating research insights into an end-to-end digital service concept."
+    ]
+  ],
+  "skills": [
+    {"label": "Tools", "items": ["Figma", "Adobe XD", "Adobe Illustrator", "Adobe Photoshop"]},
+    {"label": "Design", "items": ["UI Design", "Interaction Design", "Responsive Design", "Prototyping", "Wireframing", "User Flows", "Usability Testing", "User Journeys", "Information Architecture", "User-Centered Design", "User Research", "User Interviews"]},
+    {"label": "Design Systems", "items": ["Components", "Auto Layout", "Variants", "Responsive Components", "Reusable Patterns"]},
+    {"label": "Research & Analysis", "items": ["Qualitative Research", "Research Synthesis", "Basic Data Analytics", "Surveys", "Thematic Analysis"]}
+  ],
+  "sectionOrder": ["Profile", "Technical Skills", "Work Experience", "Projects", "Education", "Leadership and Community"],
+  "honesty": "Rewrote the profile and reworded, reordered and re-sectioned base CV content only. No native platform guideline, fintech, insurance or accessibility-standard experience claimed; no new tools, employers, dates or metrics."
+}

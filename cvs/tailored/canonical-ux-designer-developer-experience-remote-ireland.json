@@ -1,0 +1,45 @@
+{
+  "jobId": "canonical-ux-designer-developer-experience-remote-ireland",
+  "title": "UX Designer - Developer experience",
+  "company": "Canonical",
+  "baseCv": "base-cv",
+  "source": "posting",
+  "sourceUrl": "https://job-boards.greenhouse.io/canonical/jobs/7043026",
+  "keywords": ["user experience", "user research", "UX heuristics", "complex products", "design systems", "consistency and efficiency", "collaborating with product managers and engineers", "technically minded", "communicate design decisions", "academic track record", "STEM degree"],
+  "profile": "Technically minded UX Designer with a Bachelor of Technology in Computer Science and Engineering (First Class with Distinction), an MSc in Design Innovation from Maynooth University and 2 years of industry experience turning complex products into efficient, intuitive experiences. Experienced in user research practices, from interviews and usability testing to thematic analysis and research synthesis, and in turning insights into user flows, wireframes, prototypes and high-fidelity designs in Figma. Works with reusable components and design patterns for consistency, and collaborates closely with product stakeholders and developers to refine requirements and present clear design decisions.",
+  "edits": [
+    {"from": "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+     "to": "Designed and shipped web and mobile experiences for complex HRMS products including Task Management, Timesheet, Leave and Attendance, turning user and business requirements into efficient, intuitive workflows."},
+    {"from": "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+     "to": "Conducted user interviews and usability testing with HR administrators, managers and employees, synthesizing findings into clear, actionable UX improvements and design decisions."},
+    {"from": "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+     "to": "Worked with reusable components and shared product patterns to drive consistency and efficiency across the HRMS platform, while identifying opportunities to evolve workflows and interaction patterns."},
+    {"from": "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+     "to": "Collaborated closely with product stakeholders and developers to shape requirements, validate technical feasibility and support implementation across desktop and mobile experiences."},
+    {"from": "Conducted six stakeholder interviews and thematic analysis to identify service breakdowns contributing to blood-donor drop-off, translating research insights into an end-to-end digital service concept.",
+     "to": "Conducted six stakeholder interviews and thematic analysis to uncover service breakdowns behind blood-donor drop-off, translating research insights into an end-to-end digital service concept."}
+  ],
+  "reorder": [
+    [
+      "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+      "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback."
+    ],
+    [
+      "Conducted user research for a news application and packaged the findings into a documented case study that guided design decisions.",
+      "Delivered the full UX process for an education-sector CRM aimed at schools - research, user flows, wireframes, and high-fidelity prototypes.",
+      "Produced marketing posters and graphics that supported the company's branding and campaign outreach."
+    ]
+  ],
+  "skills": [
+    {"label": "Design", "items": ["User Research", "User Interviews", "Usability Testing", "Interaction Design", "User Flows", "User Journeys", "Information Architecture", "Wireframing", "Prototyping", "UI Design", "Responsive Design", "User-Centered Design"]},
+    {"label": "Research & Analysis", "items": ["Qualitative Research", "Thematic Analysis", "Research Synthesis", "Surveys", "Basic Data Analytics"]},
+    {"label": "Design Systems", "items": ["Components", "Reusable Patterns", "Variants", "Auto Layout", "Responsive Components"]},
+    {"label": "Tools", "items": ["Figma", "Adobe XD", "Adobe Illustrator", "Adobe Photoshop"]}
+  ],
+  "sectionOrder": ["Profile", "Education", "Work Experience", "Projects", "Technical Skills", "Leadership and Community"],
+  "honesty": "Rewrote the profile and reworded, reordered and re-sectioned base CV content only. The degree result and Computer Science degree come from the base CV's Education section. No open-source, developer-tooling, command-line or packaging experience claimed; no new tools, employers, dates or metrics."
+}

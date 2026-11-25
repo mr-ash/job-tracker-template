@@ -240,5 +240,39 @@
     "contact": null,
     "tailoredCv": "cvs/tailored/jobgether-product-designer-remote-ireland.pdf",
     "status": "new"
+  },
+  {
+    "id": "bjak-mobile-ui-designer-remote-ireland",
+    "title": "Mobile UI Designer",
+    "company": "Bjak",
+    "location": "Remote – Ireland",
+    "contractType": "Full-time",
+    "salary": null,
+    "postedDate": "2026-11-14",
+    "closingDate": null,
+    "url": "https://himalayas.app/companies/bjak/jobs/mobile-ui-designer-7971477814",
+    "cv": "Base CV",
+    "note": "Core fit: asks for 2+ years designing mobile apps, Figma prototyping, wireframes, user flows, production-ready UI, design systems/reusable components and close work with engineers, all on his CV (HRMS web and mobile modules, Lullymore mobile app). Heavier on visual polish and iOS/Material guidelines than research; fintech/insurance AI neobank product. Fully remote, but candidates must already be based in Ireland (he is). No right-to-work or sponsorship statement in the posting. Separate role from the Bjak Product Designer already in the tracker; Bjak reposts this listing often.",
+    "addedDate": "2026-11-25",
+    "contact": null,
+    "tailoredCv": "cvs/tailored/bjak-mobile-ui-designer-remote-ireland.pdf",
+    "status": "new"
+  },
+  {
+    "id": "canonical-ux-designer-developer-experience-remote-ireland",
+    "title": "UX Designer - Developer experience",
+    "company": "Canonical",
+    "location": "Remote – EMEA (incl. Ireland)",
+    "contractType": "Full-time",
+    "salary": null,
+    "postedDate": "2025-07-04",
+    "closingDate": null,
+    "url": "https://job-boards.greenhouse.io/canonical/jobs/7043026",
+    "cv": "Base CV",
+    "note": "Fit: no years stated (Canonical mentions graduate/associate pay reviews); wants confidence in user research, UX heuristics on complex products, design-system thinking, work with PMs and engineers, and a Bachelor's in UX, Design or STEM with an exceptional academic record, which suits his BTech CS (First Class with Distinction) plus MSc. Slight stretch: the domain is technical developer tooling and open source, and Canonical's application screens hard on high-school and university results. Home-based anywhere in EMEA, so Ireland is allowed; travel abroad 2-4 times a year required. No right-to-work statement in the posting. Long-running evergreen listing (board last updated 23 Nov 2026).",
+    "addedDate": "2026-11-25",
+    "contact": null,
+    "tailoredCv": "cvs/tailored/canonical-ux-designer-developer-experience-remote-ireland.pdf",
+    "status": "new"
   }
 ]
