@@ -1,0 +1,44 @@
+{
+  "jobId": "xwerx-ux-service-designer-remote-ireland",
+  "title": "UX / Service Designer",
+  "company": "Xwerx",
+  "baseCv": "base-cv",
+  "source": "mirror",
+  "sourceUrl": "https://www.jobleads.com/ie/job/ux-service-designer--ireland--ed15b694c6577f1bd4ed6fad79f5cfde5",
+  "keywords": ["discovery", "design thinking", "user journeys", "friction points", "flows", "wireframes", "prototypes", "UI design", "Figma", "clear writing", "client teams"],
+  "profile": "UX and Service Designer with 2 years of industry experience and an MSc in Design Innovation from Maynooth University, grounded in user-centred and service design thinking. Experienced across the full arc of a problem: discovery through user research and stakeholder interviews, mapping user journeys and friction points, then designing user flows, wireframes, prototypes and high-fidelity UI in Figma. Strong at working closely with stakeholders, users and development teams, and at communicating research findings clearly in written case studies.",
+  "edits": [
+    {"from": "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+     "to": "Conducted discovery interviews and usability testing with HR administrators, managers and employees, identifying friction points in everyday workflows and turning findings into clear UX improvements and interface decisions."},
+    {"from": "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+     "to": "Owned the end-to-end UX process across assigned modules, from refining requirements with stakeholders through user flows, wireframes, interactive prototypes and development-ready high-fidelity UI in Figma."},
+    {"from": "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback.",
+     "to": "Designed a Partner Portal from the ground up for Sales and Customer personas, mapping workflows for leads, partners and customers and iterating dashboards based on stakeholder feedback."},
+    {"from": "Conducted six stakeholder interviews and thematic analysis to identify service breakdowns contributing to blood-donor drop-off, translating research insights into an end-to-end digital service concept.",
+     "to": "Conducted six stakeholder interviews and thematic analysis to map the service breakdowns behind blood-donor drop-off, turning research insights into an end-to-end digital service concept."},
+    {"from": "Conducted user research for a news application and packaged the findings into a documented case study that guided design decisions.",
+     "to": "Conducted user research for a news application and wrote up the findings as a clear, documented case study that guided design decisions."}
+  ],
+  "reorder": [
+    [
+      "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+      "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback.",
+      "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns."
+    ],
+    [
+      "Conducted six stakeholder interviews and thematic analysis to identify service breakdowns contributing to blood-donor drop-off, translating research insights into an end-to-end digital service concept.",
+      "A service tackling blood-donor drop-off in student-run donation drives - why first-time donors never return, and how to bring them back.",
+      "Designed, built and tested ``The Callback,'' a working web application, iterating the experience based on real-world coordinator feedback and usability findings."
+    ]
+  ],
+  "skills": [
+    {"label": "Design", "items": ["User Research", "User Interviews", "User Journeys", "User Flows", "Wireframing", "Prototyping", "UI Design", "Interaction Design", "Usability Testing", "User-Centered Design", "Information Architecture", "Responsive Design"]},
+    {"label": "Research & Analysis", "items": ["Qualitative Research", "Thematic Analysis", "Research Synthesis", "Surveys"]}
+  ],
+  "removeSkillsLines": ["Design Systems"],
+  "sectionOrder": ["Profile", "Technical Skills", "Work Experience", "Projects", "Education", "Leadership and Community"],
+  "honesty": "Rewrote the profile and reworded/reordered base CV content only. Posting read on a JobLeads mirror (employer page not found). Miro and AI work from the posting were not added as they are not in the base CV. No new experience, tools, employers, dates or metrics."
+}
