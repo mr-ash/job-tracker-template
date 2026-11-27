@@ -1,0 +1,38 @@
+{
+  "jobId": "canonical-ux-designer-design-systems-remote-ireland",
+  "title": "UX Designer - Design systems",
+  "company": "Canonical",
+  "baseCv": "base-cv",
+  "source": "posting",
+  "sourceUrl": "https://job-boards.greenhouse.io/canonical/jobs/7043028",
+  "keywords": ["design systems", "component libraries", "reusable components, patterns and guidelines", "interaction patterns", "consistency and scalability", "documentation", "collaborating with engineers", "communicate and document design decisions", "Figma", "systemic approach", "educational achievements"],
+  "profile": "UX Designer with 2 years of industry experience building consistent, scalable product experiences with reusable components, variants, auto layout and responsive components in Figma, backed by an MSc in Design Innovation from Maynooth University and a Bachelor of Technology in Computer Science and Engineering (First Class with Distinction). Experienced in working systematically on complex products: translating user needs into reusable patterns and interaction patterns, applying a clear design process from research to development-ready interfaces, and documenting and communicating design decisions to designers, developers and product stakeholders.",
+  "edits": [
+    {"from": "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+     "to": "Worked within shared product patterns and reusable components to keep the HRMS platform consistent and scalable, while identifying opportunities to evolve interaction patterns and workflows."},
+    {"from": "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+     "to": "Collaborated closely with developers and product stakeholders to bridge design and implementation, validating feasibility and communicating design decisions across desktop and mobile experiences."},
+    {"from": "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+     "to": "Owned the end-to-end design process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready, consistently structured interfaces in Figma."},
+    {"from": "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+     "to": "Designed and shipped responsive web and mobile experiences across several HRMS products including Task Management, Timesheet, Leave and Attendance, translating user needs and business requirements into coherent workflows."}
+  ],
+  "reorder": [
+    [
+      "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback.",
+      "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions."
+    ]
+  ],
+  "skills": [
+    {"label": "Design Systems", "items": ["Components", "Variants", "Auto Layout", "Reusable Patterns", "Responsive Components"]},
+    {"label": "Design", "items": ["UI Design", "Interaction Design", "Responsive Design", "Prototyping", "Wireframing", "User Flows", "Information Architecture", "User Research", "Usability Testing", "User-Centered Design"]},
+    {"label": "Tools", "items": ["Figma", "Adobe XD", "Adobe Illustrator", "Adobe Photoshop"]},
+    {"label": "Research & Analysis", "items": ["Qualitative Research", "Thematic Analysis", "Research Synthesis"]}
+  ],
+  "sectionOrder": ["Profile", "Technical Skills", "Work Experience", "Education", "Projects", "Leadership and Community"],
+  "honesty": "Rewrote the profile and reworded, reordered and re-sectioned base CV content only. Storybook, design tokens and accessibility work named in the posting were not added because they are not in the base CV. No new tools, employers, dates or metrics."
+}

@@ -1,0 +1,43 @@
+{
+  "jobId": "canonical-ux-designer-infrastructure-remote-ireland",
+  "title": "UX Designer - Infrastructure",
+  "company": "Canonical",
+  "baseCv": "base-cv",
+  "source": "mirror",
+  "sourceUrl": "https://himalayas.app/companies/canonical/jobs/ux-designer-infrastructure",
+  "keywords": ["technically oriented", "complex products", "efficient, intuitive products", "UX heuristics", "user research practices", "design systems", "consistency and efficiency", "product managers and engineers", "clear communication", "academic track record", "STEM degree"],
+  "profile": "Technically oriented UX Designer with a Bachelor of Technology in Computer Science and Engineering (First Class with Distinction), an MSc in Design Innovation from Maynooth University and 2 years of industry experience turning complex products into efficient, intuitive experiences. Experienced in user research practices, from interviews and usability testing to thematic analysis and research synthesis, and in applying UX heuristics through user flows, wireframes, prototypes and high-fidelity designs in Figma. Works with reusable components and design patterns for consistency, and collaborates closely with product stakeholders and developers, presenting design decisions with clarity.",
+  "edits": [
+    {"from": "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+     "to": "Designed and shipped web and mobile experiences for complex HRMS products including Task Management, Timesheet, Leave and Attendance, turning user and business requirements into efficient, intuitive workflows."},
+    {"from": "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+     "to": "Worked with reusable components and shared product patterns to drive consistency and efficiency across the HRMS platform, while identifying opportunities to evolve workflows and interaction patterns."},
+    {"from": "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+     "to": "Collaborated closely with product stakeholders and developers to shape requirements, work through technical constraints and support implementation across desktop and mobile experiences."},
+    {"from": "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+     "to": "Conducted user interviews and usability testing with HR administrators, managers and employees, synthesizing findings into clear, actionable UX improvements and design decisions."}
+  ],
+  "reorder": [
+    [
+      "Designed and shipped responsive web and mobile experiences for core HRMS products including Task Management, Timesheet, Leave and Attendance, translating user and business requirements into intuitive digital workflows.",
+      "Collaborated with product stakeholders and developers to refine requirements, validate design feasibility and support implementation across desktop and mobile experiences.",
+      "Conducted interviews and usability testing with HR administrators, managers and employees, synthesizing findings into actionable UX improvements and interface decisions.",
+      "Worked within existing product patterns and reusable components to maintain consistency across the HRMS platform while identifying opportunities to improve workflows and interaction patterns.",
+      "Owned the end-to-end UX process across assigned modules, creating user flows, wireframes, interactive prototypes and development-ready high-fidelity interfaces in Figma.",
+      "Designed a Partner Portal from the ground up for Sales and Customer personas, creating dashboards and workflows for leads, partners and customers while iterating designs based on stakeholder feedback."
+    ],
+    [
+      "Designed, built and tested ``The Callback,'' a working web application, iterating the experience based on real-world coordinator feedback and usability findings.",
+      "Conducted six stakeholder interviews and thematic analysis to identify service breakdowns contributing to blood-donor drop-off, translating research insights into an end-to-end digital service concept.",
+      "A service tackling blood-donor drop-off in student-run donation drives - why first-time donors never return, and how to bring them back."
+    ]
+  ],
+  "skills": [
+    {"label": "Design", "items": ["User Research", "Usability Testing", "Interaction Design", "Information Architecture", "User Flows", "Wireframing", "Prototyping", "UI Design", "User Interviews", "User Journeys", "Responsive Design", "User-Centered Design"]},
+    {"label": "Design Systems", "items": ["Components", "Reusable Patterns", "Variants", "Auto Layout", "Responsive Components"]},
+    {"label": "Research & Analysis", "items": ["Qualitative Research", "Thematic Analysis", "Research Synthesis", "Surveys", "Basic Data Analytics"]},
+    {"label": "Tools", "items": ["Figma", "Adobe XD", "Adobe Illustrator", "Adobe Photoshop"]}
+  ],
+  "sectionOrder": ["Profile", "Education", "Work Experience", "Projects", "Technical Skills", "Leadership and Community"],
+  "honesty": "Rewrote the profile and reworded, reordered and re-sectioned base CV content only. Posting confirmed live on Canonical's Greenhouse board (job 6072086); description read on the Himalayas mirror. Degree result and Computer Science degree come from the base CV. No cloud, infrastructure, hardware or open-source experience claimed; no new tools, employers, dates or metrics."
+}

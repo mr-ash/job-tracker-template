@@ -291,5 +291,39 @@
     "contact": null,
     "tailoredCv": "cvs/tailored/xwerx-ux-service-designer-remote-ireland.pdf",
     "status": "new"
+  },
+  {
+    "id": "canonical-ux-designer-infrastructure-remote-ireland",
+    "title": "UX Designer - Infrastructure",
+    "company": "Canonical",
+    "location": "Remote – EMEA (incl. Ireland)",
+    "contractType": "Full-time",
+    "salary": null,
+    "postedDate": "2025-01-28",
+    "closingDate": null,
+    "url": "https://job-boards.greenhouse.io/canonical/jobs/6072086",
+    "cv": "Base CV",
+    "note": "Fit: no years of experience stated (same UX req as the Developer experience role already on the tracker). Wants a technically oriented designer who is confident in user research, applies UX heuristics to complex products, evolves design systems and works with PMs and engineers. It also asks for an exceptional academic record and a UX/Design/STEM degree, which suits his BTech CS (First Class with Distinction) plus MSc. Slight stretch: the domain is cloud and data-centre tooling (MAAS, LXD, MicroCloud, Kubernetes), and Canonical screens hard on school and university results. Home-based anywhere in EMEA, so Ireland is allowed. Requires travel abroad about twice a year. No right-to-work statement in the posting. Long-running evergreen listing; description read on Himalayas, confirmed live on Greenhouse.",
+    "addedDate": "2026-11-27",
+    "contact": null,
+    "tailoredCv": "cvs/tailored/canonical-ux-designer-infrastructure-remote-ireland.pdf",
+    "status": "new"
+  },
+  {
+    "id": "canonical-ux-designer-design-systems-remote-ireland",
+    "title": "UX Designer - Design systems",
+    "company": "Canonical",
+    "location": "Remote – EMEA (incl. Ireland)",
+    "contractType": "Full-time",
+    "salary": null,
+    "postedDate": "2025-07-04",
+    "closingDate": null,
+    "url": "https://job-boards.greenhouse.io/canonical/jobs/7043028",
+    "cv": "Base CV",
+    "note": "Stretch: no years stated, but it asks for 'relevant experience' and a portfolio strong on design systems (component libraries, documentation), plus Figma, Storybook and design-token workflows. He has Figma components, variants, auto layout and reusable patterns from the HRMS work, but no Storybook or design tokens. Collaborating with engineers and documenting design decisions fits well. Wants exceptional educational results (his First Class BTech and MSc help). Home-based in EMEA, so Ireland is allowed. Requires travel up to 4 times a year. No right-to-work statement in the posting. Long-running evergreen listing.",
+    "addedDate": "2026-11-27",
+    "contact": null,
+    "tailoredCv": "cvs/tailored/canonical-ux-designer-design-systems-remote-ireland.pdf",
+    "status": "new"
   }
 ]
